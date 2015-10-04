@@ -18,6 +18,9 @@
 .ba-container-center{
 	margin-left: auto;
 	margin-right: auto;
+	width: 960px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 img{
 	max-width: 100%;
@@ -182,4 +185,10 @@ img{
 }
 .ba-width-1-10 {
 	width: 10%;
+}
+.ba-width-5-12 {
+	width: 41.667%;
+}
+.ba-width-7-12 {
+	width: 58.333%;
 }
